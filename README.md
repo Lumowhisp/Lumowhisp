@@ -13,9 +13,9 @@
 ## 🚀 About Me
 - 💡 Passionate about **C++**, **DSA**, **AR/VR**, and building real tech products  
 - 🌱 Actively contributing to **open-source**  
-- 🛠 Working on **ARthik** (AR-based finance learning) & **EcoSpy**  
+- 🛠 Currently building **ARthik** (AR-based finance learning) & **EcoSpy**  
 - 🎯 Goal: Become strong in DSA + real-world development  
-- 💻 Love exploring new tech and building practical projects  
+- 💻 Love exploring new tech and creating practical projects  
 
 ---
 
@@ -31,13 +31,16 @@
 ---
 
 ## 🔥 Projects  
-### ⭐ **ARthik – AR Finance Learning App**
+
+### ⭐ **ARthik – AR Finance Learning App**  
+👉 Website: https://arthik-falcon-21.netlify.app/  
 AR-based currency scanner + beginner-friendly financial concepts.
 
-### ⭐ **EcoSpy**
+### ⭐ **EcoSpy – Environment Monitoring App**  
+👉 Website: https://ecospy-1006.web.app/  
 Smart environment monitoring prototype.
 
-### ⭐ **DSA Repository**
+### ⭐ **DSA Repository**  
 Handwritten C++ DSA solutions and templates.
 
 ---
@@ -69,6 +72,11 @@ Handwritten C++ DSA solutions and templates.
   <a href="mailto:kumaraditya129810006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" />
   </a>
+
+  <a href="https://www.linkedin.com/in/nerdyaditya/">
+    <img src="https://img.shields.io/badge/LinkedIn-nerdyaditya-blue?style=for-the-badge" />
+  </a>
+
   <a href="https://instagram.com/geek_aditya">
     <img src="https://img.shields.io/badge/Instagram-geek__aditya-pink?style=for-the-badge" />
   </a>
