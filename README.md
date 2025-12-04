@@ -28,7 +28,7 @@
 
 ---
 
-# 🧿 Duolingo-Style Streak Card (Custom SVG)
+# 🔥 Streak Card
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lumowhisp&theme=neon-dark&hide_border=true&dates=00E8FF&ring=FF6B81&fire=FF6B35&sideNums=00E8FF&currStreakNum=00E8FF" />
@@ -36,7 +36,7 @@
 
 ---
 
-# 📈 GitHub Stats (Glow Theme)
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lumowhisp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
