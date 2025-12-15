@@ -50,8 +50,9 @@ Currently building:
 
 <!-- ================= STREAK ================= -->
 ## 🔥 Consistency Mode ON
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumowhisp&theme=dark&hide_border=true&background=00000000&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=9AA4B2&dates=6B7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumowhisp&theme=transparent&hide_border=true&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA" />
 </p>
 
 ---
@@ -64,22 +65,6 @@ Currently building:
 </p>
 
 ---
-
-<!-- ================= SNAKE ================= -->
-## 🐍 Code Never Sleeps
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lumowhisp/Lumowhisp/output/snake.svg" />
-</p>
-
----
-
-<!-- ================= TROPHIES ================= -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lumowhisp&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -97,13 +82,13 @@ Currently building:
 
 <p align="center">
   <a href="mailto:kumaraditya129810006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nerdyaditya/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-  Nerdy%20Aditya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/geek_aditya">
-    <img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-geek__aditya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
