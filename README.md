@@ -1,96 +1,114 @@
-<!-- Animated Header Banner -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00E8FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Aditya+(Lumowhisp);C%2B%2B+Developer+%7C+DSA+%7C+AR%2FVR;Open+Source+Contributor;Building+ARthik+%26+EcoSpy" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aditya+(Lumowhisp);Engineer+%7C+DSA;Open+Source+Contributor;Turning+Ideas+Into+Products" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-CS%20Builder-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Systems%20%7C%20Startups-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Discipline%20%7C%20Consistency-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision-Build%20Impactful%20Products-00C853?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- Wave Animation -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<!-- ================= ABOUT ================= -->
+## 🧠 Who Am I?
+
+I’m **Aditya**, a CS engineer who loves  
+- **building useful products**
+- **solving DSA problems**
+- **contributing to open source**
+
+Currently building:
+- 🚀 **ARthik** → AR-based smart finance
+- 🌱 **EcoSpy** → sustainability intelligence
+
+**Long-term goal:**  
+> Crack top tech roles & build scalable, real-world startups.
 
 ---
 
-# 🎨 About Me
-
-💡 I build things that solve real problems  
-🔥 AR/VR enthusiast + DSA lover  
-🛠 Currently working on **ARthik** & **EcoSpy**  
-🚀 Open-source contributor  
-🎯 Goal → Crack top tech + build scalable products  
-
----
-
-# 🧰 Tech Stack (Animated)
+<!-- ================= TECH STACK ================= -->
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,c,linux,git,github,nodejs,react,vscode,firebase,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,linux,git,github,firebase,unity&perline=6" />
 </p>
 
 ---
 
-# 🔥 Streak Card
+<!-- ================= STATS ================= -->
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lumowhisp&theme=neon-dark&hide_border=true&dates=00E8FF&ring=FF6B81&fire=FF6B35&sideNums=00E8FF&currStreakNum=00E8FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lumowhisp&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=00F5FF&text_color=E0E0E0&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumowhisp&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B6B&text_color=E0E0E0&border_radius=12&hide=c" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
-
+<!-- ================= STREAK ================= -->
+## 🔥 Consistency Mode ON
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lumowhisp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumowhisp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumowhisp&theme=dark&hide_border=true&background=00000000&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=9AA4B2&dates=6B7280" />
 </p>
 
 ---
 
-# 🐍 Animated Snake Graph
+<!-- ================= ACTIVITY ================= -->
+## 📈 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lumowhisp/Lumowhisp/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lumowhisp&theme=react-dark&area=true&line=00F5FF&point=FF6B6B&color=FFFFFF" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+<!-- ================= SNAKE ================= -->
+## 🐍 Code Never Sleeps
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lumowhisp&theme=react-dark&area=true&line=ff6b81&point=00eaff&color=00eaff" />
+  <img src="https://raw.githubusercontent.com/Lumowhisp/Lumowhisp/output/snake.svg" />
 </p>
 
 ---
 
-# 🧮 Contribution Counters (Styled)
+<!-- ================= TROPHIES ================= -->
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lumowhisp&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-6000%2B-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CURRENT%20STREAK-500%2B-FF6B35?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lumowhisp&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🏆 Achievements
+<!-- ================= METRICS ================= -->
+## 📌 Profile Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lumowhisp&theme=onedark&column=6&margin-w=10&margin-h=10" />
+  <img src="https://komarev.com/ghpvc/?username=Lumowhisp&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+<!-- ================= CONNECT ================= -->
+## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="mailto:kumaraditya129810006@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/nerdyaditya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
-  <a href="https://instagram.com/geek_aditya"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge" /></a>
+  <a href="mailto:kumaraditya129810006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nerdyaditya/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/geek_aditya">
+    <img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+  <b>“Build quietly. Let results make noise.”</b> 🚀
 </p>
-
-<h2 align="center">✨ Keep Coding. Keep Growing. Stay Legendary. ✨</h2>
