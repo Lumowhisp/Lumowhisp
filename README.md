@@ -38,16 +38,6 @@ Currently building:
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lumowhisp&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=00F5FF&text_color=E0E0E0&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumowhisp&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B6B&text_color=E0E0E0&border_radius=12&hide=c" />
-</p>
-
----
-
 <!-- ================= STREAK ================= -->
 ## 🔥 Consistency Mode ON
 
