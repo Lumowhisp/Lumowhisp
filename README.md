@@ -38,15 +38,6 @@ Currently building:
 
 ---
 
-<!-- ================= STREAK ================= -->
-## 🔥 Consistency Mode ON
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumowhisp&theme=transparent&hide_border=true&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA" />
-</p>
-
----
-
 <!-- ================= ACTIVITY ================= -->
 ## 📈 Contribution Flow
 
